@@ -1,7 +1,0 @@
-.env
-artifacts/
-data/
-hf_cache/
-__pycache__/
-.ipynb_checkpoints/
-*.part
